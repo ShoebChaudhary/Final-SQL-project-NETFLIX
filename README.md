@@ -1,2 +1,3 @@
-# mysql-workspace
-class works, projects, mock interviews, and all
+# Final-SQL-project-NETFLIX
+
+
