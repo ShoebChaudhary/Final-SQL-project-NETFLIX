@@ -2,7 +2,8 @@
 
 ## This Final-SQL-Project-NETFLIX is a detailed SQL database simulating Netflix’s operations, featuring 25 tables with sample data on users, subscriptions, content, payments, reviews, and more, designed to help practice SQL queries, relationships, and database management effectively.
 
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/59319733-bb41-49a1-8817-23be9b97c4a9" />
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/cbc3e502-c7aa-4616-962b-3b745c2d41d3" />
+
 
 # Final-SQL-Project-NETFLIX
 
